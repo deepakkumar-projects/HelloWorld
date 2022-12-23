@@ -1,4 +1,4 @@
-# HelloWorld
+## HelloWorld
 
 ### The most **innovative** event of Equinox powered by Axios
 
